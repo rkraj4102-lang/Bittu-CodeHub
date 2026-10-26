@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Document</title>
+        <style>
+            /*element selector*/
+            h1 {
+                color:blue;backgrond-color:yellow;
+            }
+            .a{
+                font-size: 30px;
+                color:red;
+            }
+            #a{
+                color:greenyellow;
+                background-color:red;
+            }
+
+        </style>
+    </head>
+    <body>
+        <!--this is an example of inline css-->
+        <p style="color:red;background-color: tan;">this is a paragraph</p>
+        <!--this is an example of inline css-->"
+        <h1>heading</h1>
+        <p class="a">this is an example of class selector</p>
+        <p id="a">this is an example of id selector</p>
+        <p class="b"para>this is an example of class selector</p>
+        <p id="b"para1>this is an example of id selector</p>
+    </body>
+</html>
