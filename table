@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+    <h1>heading</h1>
+    <h2>heading</h2>
+    <h6>heading</h6>
+    <p>my name is bittu kumar</p>
+</body>
+<table border="1" cellspacing="0" cellspacing="10"
+width="250"
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Class</th>
+        <th>Section</th>
+    </tr>
+    <tr>
+        <td>Bittu</td>
+        <td>18</td>
+        <td>12</td>
+        <td>B</td>
+    </tr>
+    <tr>
+        <td>Raju</td>
+        <td>17</td>
+        <td>11</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td>Ravi</td>
+        <td>19</td>
+        <td>12</td>
+        <td>A</td>
+    </tr>
+    </table>
+    <br>
+    <table border="2" cellspacing="0" cellspacing="12"
+    width="250"
+    <tr>
+        <th rowspan="">Name</th>
+        <th>Class</th>
+        <th>Roll no</th>
+        <th>Section</th>
+    </tr>
+    <tr>
+        <td>Ravi</td>
+        <td>12</td>
+        <td>01</td>
+        <td>A</td>
+    </tr>
+    <tr>
+        <td>Sonu</td>
+        <td>11</td>
+        <td>02</td>
+        <td>B</td>
+    </tr>
+    <tr>
+        <td>Anshul</td>
+        <td>12</td>
+        <td>03</td>
+        <td>C</td>
+    </tr>
